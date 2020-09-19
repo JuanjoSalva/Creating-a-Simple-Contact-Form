@@ -1,6 +1,6 @@
 # Lesson 1: Overview of HTML
 
-### Demonstration: Creating a Simple Contact Form
+### Demonstration: Creating a Simple Contact Form.
 
 #### Preparation Steps 
 
